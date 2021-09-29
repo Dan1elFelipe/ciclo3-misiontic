@@ -1,0 +1,46 @@
+/*Seleccion de elemento por id*/
+#div1{
+    border: 8px solid rgb(1, 26, 32);
+}
+
+#div2{
+    border: 8px solid rgb(47, 51, 53);
+}
+
+#div3{
+    border: 8px solid rgb(21, 74, 87);
+}
+
+#div1, #div2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Seleccion de elemento por tipo*/
+div{
+    font-size: 20px;
+    text-align: center;
+}
+
+.rojo{
+    background-color: #0794a7;
+}
+
+.azul{
+    background-color: rgb(133, 133, 133);    
+}
+
+/**/
+div h3{
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
